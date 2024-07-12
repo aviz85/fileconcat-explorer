@@ -14,7 +14,7 @@ FileConcat Explorer is a web application that allows users to browse their file 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/fileconcat-explorer.git
+   git clone https://github.com/aviz85/fileconcat-explorer
    cd fileconcat-explorer
    ```
 
