@@ -1,0 +1,2 @@
+/path/to/default/directory1/**/*.js
+/path/to/default/directory2/**/*.py

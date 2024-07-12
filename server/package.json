@@ -1,0 +1,15 @@
+{
+  "name": "fileconcat-explorer-server",
+  "version": "1.0.0",
+  "description": "Server for FileConcat Explorer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "glob-promise": "^4.2.0",
+    "fnmatch": "^2.1.0"
+  }
+}
